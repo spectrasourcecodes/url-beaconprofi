@@ -21,7 +21,7 @@ const Navbar = ({ isAuthenticated }) => {
 
     // ✅ Support (Telegram)
     { 
-      path: 'https://wa.me/5521989292367', 
+      path: 'https://wa.me/+5513955429534', 
       label: 'Support', 
       icon: MessageCircle, 
       external: true 
@@ -35,7 +35,7 @@ const Navbar = ({ isAuthenticated }) => {
 
     // ✅ Support (Telegram)
     { 
-      path: 'https://wa.me/5521989292367', 
+      path: 'https://wa.me/+5513955429534', 
       label: 'Support', 
       icon: MessageCircle, 
       external: true 
