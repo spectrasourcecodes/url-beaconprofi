@@ -83,7 +83,7 @@ const AdminLogin = () => {
         </div>
 
         <p className="text-gray-500 text-sm">
-          © 2024 Ark Investment. Admin access only.
+          © 2024 Beacon Profi. Admin access only.
         </p>
       </div>
 

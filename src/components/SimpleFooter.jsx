@@ -11,7 +11,7 @@ const SimpleFooter = () => {
       <div className="max-w-7xl mx-auto px-4">
         <div className="flex flex-col sm:flex-row justify-between items-center text-sm text-gray-600">
           <div className="flex items-center space-x-1 mb-2 sm:mb-0">
-            <span>© {currentYear} Ark Investment.</span>
+            <span>© {currentYear} Beacon Profi.</span>
             <span className="hidden sm:inline">All rights reserved.</span>
           </div>
           
